@@ -13,8 +13,8 @@ This project implements a binary classification model to distinguish between roc
 ### Setup and Installation
 1.  **Clone the Repository (if applicable):**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/BhaskarJadhav/SONAR.git
+    cd SONAR
     ```
 2.  **Install Dependencies:**
     ```bash
